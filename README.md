@@ -164,7 +164,7 @@ I also enjoy:
 # 🧬 QUOTES
 ![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Life%20begins%20at%20the%20edge%20of%20your%20comfort%20zone&author=JP)
 ![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Chase%20experiences,%20not%20just%20achievements&author=JP)
-![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
+![My Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
 ---
 
 # 🌐 CONNECT WITH ME
