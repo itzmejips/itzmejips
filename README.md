@@ -16,7 +16,6 @@
 
 **Name:** JP :>  
 **Program:** Bachelor of Science in Information Technology
-
 **Location:** Philippines  
 
 💻 Passionate about **software development, networking, and technology innovation**
