@@ -44,8 +44,8 @@
 🥈 **Regional Hack4Gov Competition**  
 📅 October 16, 2025  
 
-• **2nd Runner Up — Team Category**  
 • **1st Runner Up — Individual Category**
+• **2nd Runner Up — Team Category**  
 
 🚀 **Marian Innovation Week — Mindset Top 9**  
 📅 April 24, 2025  
