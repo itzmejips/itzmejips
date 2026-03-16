@@ -22,8 +22,8 @@
 
 ⚡ Skills include:
 
-- **Computer System Servicing**
-- **Networking**
+- **Computer System Servicing**  
+- **Networking**  
 - **Full-Stack Development**
 
 🎯 **Goal:** Become a **professional software developer and cybersecurity analyst**
@@ -93,8 +93,8 @@
 
 I play:
 
-- **Acoustic Guitar**
-- **Electric Guitar**
+- **Acoustic Guitar**  
+- **Electric Guitar**  
 - **Bass Guitar**
 
 ### 🎵 Music Lover
@@ -135,8 +135,6 @@ I enjoy:
 <div align="center">
 
 ### 🐍 Snake Eating My Commits
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/master/media/example.gif" width="600"/>
 
