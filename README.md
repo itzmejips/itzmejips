@@ -26,7 +26,7 @@
 - **Networking**
 - **Full-Stack Development**
 
-🎯 **Goal:** Become a **professional software developer**
+🎯 **Goal:** Become a **professional software developer and cybersecurity analyst**
 
 ---
 
@@ -63,9 +63,7 @@
 
 ### 🎨 Creative & Design Tools
 
-<img src="https://skillicons.dev/icons?i=figma,ps" />
-
-<img src="https://skillicons.dev/icons?i=ai" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </div>
 
@@ -82,9 +80,9 @@
 
 🖥 **Technical Skills**
 
-- Computer System Servicing
-- Networking
-- Hardware Troubleshooting
+- Computer System Servicing  
+- Networking  
+- Hardware Troubleshooting  
 - System Installation
 
 ---
@@ -103,7 +101,7 @@ I play:
 
 I enjoy:
 
-- Discovering new music
+- Discovering new music  
 - Attending **live concerts**
 
 > *Coding and music both require rhythm, creativity, and practice.*
@@ -132,6 +130,20 @@ I enjoy:
 
 ---
 
+# 🎮 GITHUB CONTRIBUTION GAME
+
+<div align="center">
+
+### 🐍 Snake Eating My Commits
+
+<img src="https://raw.githubusercontent.com/itzmejips/itzmejips/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> **Every commit = XP. Every day = level up!**
+
+---
+
 # 🕹️ DEVELOPER QUEST
 
 🎯 Explore my repositories  
@@ -156,7 +168,7 @@ Keep building.
 
 # 🌐 CONNECT WITH ME
 
-Email: your-email@example.com  
+Email: johnpaul00504@gmail.com  
 
 Portfolio: coming soon  
 
