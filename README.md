@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👾 NOCTURNE.DEV
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=1&pause=999999&color=17E9F7FF&center=true&vCenter=true&width=600&lines=👾+NOCTURNE.DEV" />
 
 ### ⚡ BSIT Student • Developer • Crammer ⚡
 
