@@ -1,6 +1,6 @@
 <!-- RETRO FUTURISTIC HEADER -->
 
-<div align="center">
+<div align="center" background-color=green>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=1&pause=999999&color=17E9F7FF&center=true&vCenter=true&width=600&lines=+👾NOCTURNE.DEV👾" />
 
@@ -14,7 +14,8 @@
 
 # 🧑‍🚀 PLAYER PROFILE
 
-**Name:** JP :>  
+**Name:** JP :>
+**CodeName:** nocturne
 **Program:** Bachelor of Science in Information Technology  
 **Location:** Philippines
 
