@@ -4,9 +4,9 @@
 
 # 👾 JIPS.DEV
 
-### ⚡ BSIT Student • Developer ⚡
+### ⚡ BSIT Student • Developer • Guitarist ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE;BUILDING+PROJECTS+ONE+COMMIT+AT+A+TIME;HACKATHON+COMPETITOR;MUSICIAN+%7C+GUITARIST;FUTURE+SOFTWARE+DEVELOPER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE;HACKATHON+COMPETITOR;FULL+STACK+LEARNER;NETWORKING+AND+SYSTEMS+SKILLS;FUTURE+SOFTWARE+DEVELOPER" />
 
 </div>
 
@@ -14,69 +14,82 @@
 
 # 🧑‍🚀 PLAYER PROFILE
 
-> **Name:** Jips  
-> **Class:** BSIT Student  
-> **Location:** Philippines  
-> **Status:** 🟢 Leveling Up Developer Skills  
+**Name:** Jips  
+**Role:** BSIT Student  
+**Location:** Philippines  
 
-💻 Passionate about **technology, software development, and innovation**
+💻 Passionate about **software development, networking, and technology innovation**
 
-🚀 Currently learning and improving in:
+⚡ Skills include:
 
-- **Web Development**
-- **Programming**
-- **Software Development**
-- **Tech Research**
+- **Computer System Servicing**
+- **Networking**
+- **Full-Stack Development**
 
-🎯 **Mission:** Become a **Professional Software Developer**
+🎯 **Goal:** Become a **professional software developer**
 
 ---
 
-# 🧠 EXPERIENCE
-
-### 🌫️ Air Pollution Research
-
-- Built a **research presentation on global air pollution**
-- Studied **Delhi, Lahore, and Metro Manila smog cases**
-- Explored **technology solutions for air quality monitoring**
-
----
-
-### 📚 Multigrade Lesson Planning System
-
-- Developed a **lesson planning structure for Grade 1 & Grade 2**
-- Based on **MATATAG Curriculum (Philippines)**
-
----
-
-### 💻 BSIT Development Work
-
-- Programming exercises
-- GitHub repository management
-- Learning modern development tools
-
----
-
-# 🏆 CREDENTIALS
+# 🏆 CREDENTIALS & ACHIEVEMENTS
 
 🥇 **Regional Tourism Vetting Champion**  
-📅 Feb 11, 2026  
+📅 February 11, 2026  
 
 🥈 **Regional Hack4Gov Competition**  
-📅 Oct 16, 2025  
+📅 October 16, 2025  
 
-• 2nd Runner Up — Team Category  
-• 1st Runner Up — Individual Category  
+• **2nd Runner Up — Team Category**  
+• **1st Runner Up — Individual Category**
 
 🚀 **Marian Innovation Week — Mindset Top 9**  
-📅 Apr 24, 2025  
+📅 April 24, 2025  
 
 💡 **Startup School Caravan — SMU SHS**  
-📅 Sept 22, 2022  
+📅 September 22, 2022  
 
 ---
 
-# 🎸 PERSONAL SKILLS
+# 🧠 TECH STACK
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,cs,php,kotlin,html,css" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,wordpress" />
+
+### 🎨 Creative & Design Tools
+
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+
+<img src="https://skillicons.dev/icons?i=ai" />
+
+</div>
+
+---
+
+# 🧰 OTHER TOOLS
+
+🖌 **Design & Media**
+
+- Canva  
+- Adobe Lightroom  
+- Adobe Photoshop  
+- Figma  
+
+🖥 **Technical Skills**
+
+- Computer System Servicing
+- Networking
+- Hardware Troubleshooting
+- System Installation
+
+---
+
+# 🎸 PERSONAL SIDE
 
 ### 🎸 Guitarist
 
@@ -88,20 +101,12 @@ I play:
 
 ### 🎵 Music Lover
 
-- Enjoy discovering new music  
-- Love attending **live concerts**
+I enjoy:
 
-> 🎧 *Coding and music both require rhythm, creativity, and flow.*
+- Discovering new music
+- Attending **live concerts**
 
----
-
-# ⚙️ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode" />
-
-</div>
+> *Coding and music both require rhythm, creativity, and practice.*
 
 ---
 
@@ -127,25 +132,22 @@ I play:
 
 ---
 
-# 🕹️ DEVELOPER QUESTS
+# 🕹️ DEVELOPER QUEST
 
-🎯 **Challenge #1:** Beat my commit streak  
-
-🎯 **Challenge #2:** Explore my repositories  
-
-🎯 **Challenge #3:** Unlock the hidden message below
+🎯 Explore my repositories  
+🎯 Follow my coding journey  
+🎯 Build cool projects  
 
 ---
 
 # 🧬 SECRET LEVEL
 
 ```
-ACCESS GRANTED
+SYSTEM MESSAGE:
 
-Welcome to the developer arcade.
+Every commit increases experience points.
 
-Every commit = XP.
-Every project = level up.
+Every project unlocks new skills.
 
 Keep building.
 ```
@@ -154,7 +156,7 @@ Keep building.
 
 # 🌐 CONNECT WITH ME
 
-📧 Email: your-email@example.com  
+Email: your-email@example.com  
 
 Portfolio: coming soon  
 
@@ -162,7 +164,7 @@ Portfolio: coming soon
 
 <div align="center">
 
-### 👾 THANKS FOR VISITING MY ARCADE
+### 👾 THANKS FOR VISITING MY PROFILE
 
 <img src="https://komarev.com/ghpvc/?username=itzmejips&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
@@ -170,6 +172,4 @@ Portfolio: coming soon
 
 ---
 
-### ⚡ FINAL MESSAGE
-
-> **"Every line of code is a step closer to mastery."**
+⚡ **"Build. Learn. Repeat."**
