@@ -14,7 +14,7 @@
 
 # 🧑‍🚀 PLAYER PROFILE
 
-**Name:** Jips  
+**Name:** itzmejips  
 **Role:** BSIT Student  
 **Location:** Philippines  
 
