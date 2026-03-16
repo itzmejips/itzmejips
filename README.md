@@ -177,7 +177,7 @@ I also enjoy:
 
 ### 👾 THANKS FOR VISITING MY PROFILE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=17E9F7FF&center=true&lines=👀+Profile+Views:+1234" /></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2000&pause=1000&color=F77621FF&center=true&lines=👀+Profile+Views:+...." /></div>
 
 ---
 
