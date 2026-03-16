@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👾 JIPS.DEV
+# 👾 NOCTURNE.DEV
 
 ### ⚡ BSIT Student • Developer • Crammer ⚡
 
@@ -15,10 +15,10 @@
 # 🧑‍🚀 PLAYER PROFILE
 
 **Name:** JP :>  
-**Program:** Bachelor of Science in Information Technology
-**Location:** Philippines  
+**Program:** Bachelor of Science in Information Technology  
+**Location:** Philippines
 
-💻 Passionate about **software development, networking, and technology innovation**
+💻 Passionate about **software development, cybersecurity, and technology innovation**
 
 ⚡ **Technical Skills** :
 
@@ -82,7 +82,6 @@
 
 </div>
 
----
 
 # 🧰 OTHER TOOLS
 
@@ -91,8 +90,8 @@
 - Canva  
 - Adobe Lightroom  
 
-
-# 🎸 PERSONAL SIDE
+---
+# 🎸 PERSONAL LIFE
 
 ### 🎸 Guitarist
 
@@ -109,7 +108,15 @@ I enjoy:
 - Discovering new music  
 - Attending **live concerts**
 
-> *Coding and music both require rhythm, creativity, and practice.*
+### 🌿 Nature Lover
+
+I also enjoy:
+
+- Exploring the outdoors  
+- Nature trips  
+- Appreciating natural beauty and scenery  
+
+> *Coding, music, and nature all require rhythm, creativity, and patience.*
 
 ---
 
