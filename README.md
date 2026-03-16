@@ -6,13 +6,13 @@
 
 ### ⚡ Explorer • Developer • Crammer ⚡
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Honk&size=50&duration=5000&pause=1000&color=6BF774FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Honk&size=55&duration=5000&pause=1000&color=6BF774FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+PROFILE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
 
 </div>
 
 ---
 
-# 🧑‍🚀 PLAYER PROFILE
+# 🧑‍🚀 MY PORTFOLIO
 
 **Name:** JP :>  <br><br>
 **Codename:** Nocturne  <br><br>
@@ -167,10 +167,8 @@ I also enjoy:
 
 # 🌐 CONNECT WITH ME
 
-Email: johnpaul00504@gmail.com  
-
-Portfolio: Coming Soon! 
-
+Email: johnpaul34107@gmail.com
+LinkedIn:
 ---
 
 <div align="center">
