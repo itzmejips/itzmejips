@@ -6,7 +6,7 @@
 
 ### ⚡ BSIT Student • Developer • Crammer ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=25&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=24&duration=5000&pause=1000&color=6BF774FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
 
 </div>
 
@@ -14,17 +14,19 @@
 
 # 🧑‍🚀 PLAYER PROFILE
 
-**Name:** itzmejips  
-**Role:** BSIT Student  
+**Name:** JP :>  
+**Program:** Bachelor of Science in Information Technology
 **Location:** Philippines  
 
 💻 Passionate about **software development, networking, and technology innovation**
 
-⚡ Skills include:
+⚡ **Technical Skills** :
 
-- **Computer System Servicing**  
+- **Computer Hardware**  
 - **Networking**  
-- **Full-Stack Development**
+- **Full-Stack Development**  
+- **Hardware Troubleshooting**
+- **System Installation**
 
 🎯 **Goal:** Become a **professional software developer and cybersecurity analyst**
 
@@ -53,17 +55,30 @@
 
 <div align="center">
 
+### ⚙️ Operating System 
+
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
+### 🖥️ IDE 
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio" />
+
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,cs,php,kotlin,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cs,php,kotlin,html,css,js" />
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,wordpress" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite,materialui,mysql,npm,wordpress" />
 
-### 🎨 Creative & Design Tools
+### 🤖 Machine Learning / Artificial Intelligence
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+
+### 🎨 Design & Communication Tools
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,discord,gmail" />
 
 </div>
 
@@ -75,17 +90,7 @@
 
 - Canva  
 - Adobe Lightroom  
-- Adobe Photoshop  
-- Figma  
 
-🖥 **Technical Skills**
-
-- Computer System Servicing  
-- Networking  
-- Hardware Troubleshooting  
-- System Installation
-
----
 
 # 🎸 PERSONAL SIDE
 
