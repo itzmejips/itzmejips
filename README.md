@@ -167,17 +167,17 @@ I also enjoy:
 
 # 🌐 CONNECT WITH ME
 
-Email: johnpaul34107@gmail.com
-LinkedIn:
----
+<div align="center">
+
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:johnpaul34107@gmail.com) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/john-paul-dres-3a1ab5319/) &nbsp;&nbsp;&nbsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/itzmejips)
+
+</div>
 
 <div align="center">
 
 ### 👾 THANKS FOR VISITING MY PROFILE
 
-<img src="https://komarev.com/ghpvc/?username=itzmejips&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=17E9F7FF&center=true&lines=👀+Profile+Views:+1234" /></div>
 
 ---
 
