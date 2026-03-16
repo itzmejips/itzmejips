@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=1&pause=999999&color=17E9F7FF&center=true&vCenter=true&width=600&lines=+👾NOCTURNE.DEV👾" />
 
-### ⚡ BSIT Student • Developer • Crammer ⚡
+### ⚡ Explorer • Developer • Crammer ⚡
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Honk&size=50&duration=5000&pause=1000&color=6BF774FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
 
