@@ -12,7 +12,7 @@
 
 ---
 
-# 🧑‍🚀 MY PORTFOLIO
+# 🧑‍🚀 JP'S INFORMATION
 
 **Name:** JP :>  <br><br>
 **Codename:** Nocturne  <br><br>
@@ -175,12 +175,10 @@ I also enjoy:
 
 <div align="center">
 
-### 👾 THANKS FOR VISITING MY PROFILE
+### 👾 THANKS FOR VISITING MY PROFILE 👾
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2000&pause=1000&color=F77621FF&center=true&lines=👀+Profile+Views:" style="vertical-align: middle;" />
-<img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=flat" style="vertical-align: middle;" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=plastic" style="height:25px;" />
 
 </div>
 </div>
