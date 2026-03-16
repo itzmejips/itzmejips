@@ -185,4 +185,4 @@ I also enjoy:
 
 ---
 
-⚡ **"Build. Learn. Repeat."**
+### ⚡ **"Build. Learn. Repeat."** ⚡
