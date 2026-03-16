@@ -14,12 +14,15 @@
 
 # 🧑‍🚀 PLAYER PROFILE
 
-**Name:** JP :>
-**CodeName:** nocturne
-**Program:** Bachelor of Science in Information Technology  
-**Location:** Philippines
+**Name:** JP :>  <br><br>
+**Codename:** Nocturne  <br><br>
+**Program:** Bachelor of Science in Information Technology <br><br>
+**Location:** Philippines <br>
 
-💻 Passionate about **software development, cybersecurity, and technology innovation**
+⚡ **Interest** :
+- **Software Development**
+- **Cybersecurity**
+- **Technology Innovation**
 
 ⚡ **Technical Skills** :
 
@@ -157,33 +160,18 @@ I also enjoy:
 
 ---
 
-# 🕹️ DEVELOPER QUEST
 
-🎯 Explore my repositories  
-🎯 Follow my coding journey  
-🎯 Build cool projects  
-
----
-
-# 🧬 SECRET LEVEL
-
-```
-SYSTEM MESSAGE:
-
-Every commit increases experience points.
-
-Every project unlocks new skills.
-
-Keep building.
-```
-
+# 🧬 QUOTES
+![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Life%20begins%20at%20the%20edge%20of%20your%20comfort%20zone&author=JP)
+![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Chase%20experiences,%20not%20just%20achievements&author=JP)
+![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
 ---
 
 # 🌐 CONNECT WITH ME
 
 Email: johnpaul00504@gmail.com  
 
-Portfolio: coming soon  
+Portfolio: Coming Soon! 
 
 ---
 
