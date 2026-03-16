@@ -1,86 +1,101 @@
-# 🎮 Welcome to My GitHub Arcade
+<!-- RETRO FUTURISTIC HEADER -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Jips!;BSIT+Student+💻;Future+Software+Developer;Music+Lover+🎸;Welcome+to+my+GitHub+Arcade+🎮" />
+# 👾 JIPS.DEV
+
+### ⚡ BSIT Student • Developer • Musician ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE;BUILDING+PROJECTS+ONE+COMMIT+AT+A+TIME;HACKATHON+COMPETITOR;MUSICIAN+%7C+GUITARIST;FUTURE+SOFTWARE+DEVELOPER" />
 
 </div>
 
 ---
 
-# 🧑‍💻 Player Profile
+# 🧑‍🚀 PLAYER PROFILE
 
-🎓 **BSIT Student**  
-📍 Philippines  
+> **Name:** Jips  
+> **Class:** BSIT Student  
+> **Location:** Philippines  
+> **Status:** 🟢 Leveling Up Developer Skills  
 
-💡 Passionate about **technology, coding, and innovation**
+💻 Passionate about **technology, software development, and innovation**
 
-🚀 Currently learning:
+🚀 Currently learning and improving in:
 
-- Web Development
-- Programming
-- Software Development
-- Technology Research
+- **Web Development**
+- **Programming**
+- **Software Development**
+- **Tech Research**
 
-🎯 Goal: Become a **Professional Software Developer**
-
-🏠 Dream: Build a successful tech career.
-
----
-
-# 🎸 Personal Skills & Interests
-
-🎸 Guitar Player  
-- Acoustic Guitar  
-- Electric Guitar  
-- Bass Guitar  
-
-🎵 Music Lover  
-- I enjoy discovering new music  
-- I love attending **live concerts**
-
-💡 I believe **music and coding are similar** — both require creativity, rhythm, and practice.
+🎯 **Mission:** Become a **Professional Software Developer**
 
 ---
 
-# 🏆 Credentials & Achievements
+# 🧠 EXPERIENCE
 
-🥇 **Regional Tourism Vetting Champion**  
-📅 February 11, 2026  
+### 🌫️ Air Pollution Research
 
-🥈 **Regional Hack4Gov Competition**  
-📅 October 16, 2025  
-
-- 🏅 2nd Runner Up – Team Category  
-- 🏅 1st Runner Up – Individual Category  
-
-🚀 **Marian Innovation Week – Mindset Top 9**  
-📅 April 24, 2025  
-
-💡 **Startup School Caravan – SMU SHS**  
-📅 September 22, 2022  
+- Built a **research presentation on global air pollution**
+- Studied **Delhi, Lahore, and Metro Manila smog cases**
+- Explored **technology solutions for air quality monitoring**
 
 ---
 
-# 🧠 Experience & Projects
+### 📚 Multigrade Lesson Planning System
 
-### 🌫️ Air Pollution Research Project
-- Created a research presentation about **global air pollution**
-- Studied smog problems in **Delhi, Lahore, and Metro Manila**
-- Explored technologies used for **air quality monitoring**
+- Developed a **lesson planning structure for Grade 1 & Grade 2**
+- Based on **MATATAG Curriculum (Philippines)**
 
-### 📚 Multigrade Lesson Plan System
-- Designed a lesson planning structure for **Grade 1 & Grade 2**
-- Based on the **MATATAG Curriculum (Philippines)**
+---
 
-### 💻 BSIT Development Projects
+### 💻 BSIT Development Work
+
 - Programming exercises
-- GitHub project management
+- GitHub repository management
 - Learning modern development tools
 
 ---
 
-# 🛠️ Power Ups (Tech Stack)
+# 🏆 CREDENTIALS
+
+🥇 **Regional Tourism Vetting Champion**  
+📅 Feb 11, 2026  
+
+🥈 **Regional Hack4Gov Competition**  
+📅 Oct 16, 2025  
+
+• 2nd Runner Up — Team Category  
+• 1st Runner Up — Individual Category  
+
+🚀 **Marian Innovation Week — Mindset Top 9**  
+📅 Apr 24, 2025  
+
+💡 **Startup School Caravan — SMU SHS**  
+📅 Sept 22, 2022  
+
+---
+
+# 🎸 PERSONAL SKILLS
+
+### 🎸 Guitarist
+
+I play:
+
+- **Acoustic Guitar**
+- **Electric Guitar**
+- **Bass Guitar**
+
+### 🎵 Music Lover
+
+- Enjoy discovering new music  
+- Love attending **live concerts**
+
+> 🎧 *Coding and music both require rhythm, creativity, and flow.*
+
+---
+
+# ⚙️ TECH STACK
 
 <div align="center">
 
@@ -90,74 +105,71 @@
 
 ---
 
-# 🎮 GitHub Arcade
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/itzmejips/itzmejips/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🟡 Pac-Man Contribution Game
-
-![pacman graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=itzmejips&theme=algolia&margin-w=10&margin-h=10)
-
----
-
-# 📊 Player Stats
+# 📊 PLAYER STATS
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmejips&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzmejips&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub streak](https://streak-stats.demolab.com?user=itzmejips&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmejips&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmejips&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎮 Developer Mini Games
+# 🔥 COMMIT STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=itzmejips&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🕹️ DEVELOPER QUESTS
 
 🎯 **Challenge #1:** Beat my commit streak  
-🧠 **Challenge #2:** Find the hidden message  
+
+🎯 **Challenge #2:** Explore my repositories  
+
+🎯 **Challenge #3:** Unlock the hidden message below
 
 ---
 
-# 🕵️ Secret Level
+# 🧬 SECRET LEVEL
 
 ```
-If you're reading this...
+ACCESS GRANTED
 
-You just unlocked the secret developer level.
-Welcome to the arcade 😎
+Welcome to the developer arcade.
+
+Every commit = XP.
+Every project = level up.
+
+Keep building.
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 📧 Email: your-email@example.com  
-💼 LinkedIn: coming soon  
-🌍 Portfolio: coming soon  
+
+Portfolio: coming soon  
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my GitHub Arcade!
+### 👾 THANKS FOR VISITING MY ARCADE
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=itzmejips)
+<img src="https://komarev.com/ghpvc/?username=itzmejips&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-💡 **"Every line of code is XP for my developer journey."**
+### ⚡ FINAL MESSAGE
+
+> **"Every line of code is a step closer to mastery."**
