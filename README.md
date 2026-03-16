@@ -6,7 +6,7 @@
 
 ### ⚡ BSIT Student • Developer • Crammer ⚡
 
-<img src="[[https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE;HACKATHON+COMPETITOR;FULL+STACK+LEARNER;NETWORKING+AND+SYSTEMS+SKILLS;FUTURE+SOFTWARE+DEVELOPER](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=6BF774&width=435&lines=WELCOME+TO+MY+DEVELOPER+ARCADE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST)](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE;HACKATHON+COMPETITOR;FULL+STACK+LEARNER;NETWORKING+AND+SYSTEMS+SKILLS;FUTURE+SOFTWARE+DEVELOPER)" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
 
 </div>
 
