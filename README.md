@@ -177,7 +177,13 @@ I also enjoy:
 
 ### 👾 THANKS FOR VISITING MY PROFILE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2000&pause=1000&color=F77621FF&center=true&lines=👀+Profile+Views:+...." /></div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2000&pause=1000&color=F77621FF&center=true&lines=👀+Profile+Views:" style="vertical-align: middle;" />
+<img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=flat" style="vertical-align: middle;" />
+
+</div>
+</div>
 
 ---
 
