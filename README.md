@@ -136,6 +136,8 @@ I enjoy:
 
 ### 🐍 Snake Eating My Commits
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/master/media/example.gif" width="600"/>
 
 </div>
