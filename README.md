@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Third Year IT Student from Saint Mary's University<br>🔭 I’m currently working on Agri-Renta<br>🌱 I’m currently learning anything related to tech<br>💬 Ask me about anything!<br>⚡ Fun fact: I love...
+Third Year IT Student<br>🔭 I’m currently working on Agri-Renta<br>🌱 I’m currently learning anything related to tech<br>💬 Ask me about anything!<br>⚡ Fun fact: I love...
 
 
 ## 🌐 Socials:
