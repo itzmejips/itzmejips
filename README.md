@@ -4,7 +4,7 @@
 
 # 👾 JIPS.DEV
 
-### ⚡ BSIT Student • Developer • Musician ⚡
+### ⚡ BSIT Student • Developer ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DEVELOPER+ARCADE;BUILDING+PROJECTS+ONE+COMMIT+AT+A+TIME;HACKATHON+COMPETITOR;MUSICIAN+%7C+GUITARIST;FUTURE+SOFTWARE+DEVELOPER" />
 
