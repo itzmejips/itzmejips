@@ -134,13 +134,11 @@ I enjoy:
 
 <div align="center">
 
-### 🐍 Snake Eating My Commits
+## 🟡 Pac-Man Contribution Game
 
-<div align="center">
+![pacman graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/master/media/example.gif" width="600"/>
-
-</div>
+---
 
 > **Every commit = XP. Every day = level up!**
 
