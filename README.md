@@ -11,8 +11,9 @@
 </div>
 
 ---
-
-# 🧑‍🚀 JP'S INFORMATION
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧑‍🚀+JP'S+INFORMATION" />
+</div>
 
 **Name:** JP :>  <br><br>
 **Codename:** Nocturne  <br><br>
@@ -35,8 +36,9 @@
 🎯 **Goal:** Become a **professional software developer and cybersecurity analyst**
 
 ---
-
-# 🏆 CREDENTIALS & ACHIEVEMENTS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=30&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🏆+CREDENTIALS+AND+ACHIEVEMENTS" />
+</div>
 
 🥇 **Regional Tourism Vetting Champion**  
 📅 February 11, 2026  
@@ -55,7 +57,9 @@
 
 ---
 
-# 🧠 TECH STACK
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧠+TECH+STACK" />
+</div>
 
 <div align="center">
 
@@ -80,19 +84,14 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 
 
-### 🎨 Design & Communication Tools
+### 🎨 Design & Media
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,discord,gmail" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+
 
 </div>
 
-
-# 🧰 OTHER TOOLS
-
-🖌 **Design & Media**
-
-- Canva  
-- Adobe Lightroom  
 
 ---
 # 🎸 PERSONAL LIFE
@@ -179,6 +178,9 @@ I also enjoy:
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=plastic" style="height:25px;" />
+<div align="center">
+  <img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=4&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 </div>
 </div>
