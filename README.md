@@ -10,7 +10,7 @@
 
 
 ---
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧑🏻‍💻+JP'S+INFORMATION+🧑🏻‍💻" />
 </div>
@@ -20,11 +20,11 @@
 🕶️ **Codename:** nocturne
 💻 **Program:** BS Information Technology
 🌍 **Location:** Philippines
-<br><br>
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+⚡+SKILLS+AND+EXPERTISE+⚡" />
 </div>
@@ -46,9 +46,10 @@
 > Become a **professional software developer and cybersecurity analyst**
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=30&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🏆+CREDENTIALS+AND+ACHIEVEMENTS+🏆" />
 </div>
@@ -59,15 +60,15 @@
 🥈 Regional Hack4Gov Competition (2025)
 
 • 1st Runner Up — Individual Category
-• 2nd Runner Up — Team Category<br><br>
-
+• 2nd Runner Up — Team Category
+<br><br>
 🚀 Marian Innovation Week — Top 9 (2025)<br><br>
 💡 Startup School Caravan (2022)
-
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧠+TECH+STACK+🧠" />
 </div>
@@ -103,9 +104,10 @@
 
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🏌🏻‍♂️+PERSONAL+LIFE+🏌🏻‍♂️" />
 </div>
@@ -122,9 +124,10 @@
 
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+📊+STATISTICS+📊" />
@@ -142,9 +145,10 @@
 <img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=4&scale=1"/>
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
 
 <div align="center">
@@ -158,9 +162,10 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
 
 <div align="center">
@@ -172,9 +177,10 @@
 ![My Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
 
 <div align="center">
@@ -203,13 +209,15 @@
 </div>
 
 </div>
+<br>
 
 ---
-
+<br>
 <div align="center">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=25&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+👾+THANKS+FOR+VISITING+MY+PROFILE!+👾" />
 </div>
+<br>
 
 </div>
