@@ -4,7 +4,9 @@
 
 ### ⚡ Explorer • Developer • Crammer ⚡
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Honk&size=55&duration=5000&pause=1000&color=6BF774FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+PROFILE!;HACK4GOV+COMPETITOR;FULL+STACK+LEARNER;FUTURE+SOFTWARE+DEVELOPER;FUTURE+CYBERSECURITY+ANALYST" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Honk&size=55&duration=5000&pause=1000&color=6BF774FF&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+DIGITAL+SPACE!;HACK4GOV+COMPETITOR;FULL+STACK+DEV;CYBERSEC+ASPIRANT;INNOVATION+CHALLENGER;GUITARIST+%7C+PHOTO+%7C+VIDEO;BUILD.+LEARN.+REPEAT." />
+
+
 
 </div>
 
