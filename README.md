@@ -177,7 +177,6 @@
 ![My Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
 
 </div>
-<br>
 
 ---
 <br>
