@@ -144,7 +144,7 @@
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=999999&color=17E9F7FF&center=true&vCenter=true&width=600&lines=+PROFILE+VIEWS" /><br>
-<img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=4&scale=1"/>
+<img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=5&scale=1"/>
 
 </div>
 <br>
