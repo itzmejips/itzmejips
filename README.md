@@ -1,5 +1,3 @@
-<!-- RETRO FUTURISTIC HEADER -->
-
 <div align="center" background-color=green>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=1&pause=999999&color=17E9F7FF&center=true&vCenter=true&width=600&lines=+👾NOCTURNE.DEV👾" />
@@ -10,170 +8,178 @@
 
 </div>
 
----
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧑‍🚀+JP'S+INFORMATION" />
-</div>
-
-**Name:** JP :>  <br><br>
-**Codename:** Nocturne  <br><br>
-**Program:** Bachelor of Science in Information Technology <br><br>
-**Location:** Philippines <br>
-
-⚡ **Interest** :
-- **Software Development**
-- **Cybersecurity**
-- **Technology Innovation**
-
-⚡ **Technical Skills** :
-
-- **Computer Hardware**  
-- **Networking**  
-- **Full-Stack Development**  
-- **Hardware Troubleshooting**
-- **System Installation**
-
-🎯 **Goal:** Become a **professional software developer and cybersecurity analyst**
-
----
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=30&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🏆+CREDENTIALS+AND+ACHIEVEMENTS" />
-</div>
-
-🥇 **Regional Tourism Vetting Champion**  
-📅 February 11, 2026  
-
-🥈 **Regional Hack4Gov Competition**  
-📅 October 16, 2025  
-
-• **1st Runner Up — Individual Category**<br>
-• **2nd Runner Up — Team Category**  
-
-🚀 **Marian Innovation Week — Mindset Top 9**  
-📅 April 24, 2025  
-
-💡 **Startup School Caravan — SMU SHS**  
-📅 September 22, 2022  
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧠+TECH+STACK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧑🏻‍💻+JP'S+INFORMATION+🧑🏻‍💻" />
 </div>
 
 <div align="center">
 
-### ⚙️ Operating System 
+🕶️ **Codename:** nocturne
+💻 **Program:** BS Information Technology
+🌍 **Location:** Philippines
+<br><br>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+⚡+SKILLS+AND+EXPERTISE+⚡" />
+</div>
+
+<div align="center">
+
+💻 Software Development
+🔐 Cybersecurity
+🚀 Technology Innovation
+
+🧠 **Core Skills**
+• Full-Stack Development
+• Networking
+• Hardware Systems
+• Cybersecurity
+<br><br>
+🎯 **MISSION:**
+
+> Become a **professional software developer and cybersecurity analyst**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=30&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🏆+CREDENTIALS+AND+ACHIEVEMENTS+🏆" />
+</div>
+
+<div align="center">
+
+🥇 Regional Tourism Vetting Champion (2026)<br><br>
+🥈 Regional Hack4Gov Competition (2025)
+
+• 1st Runner Up — Individual Category
+• 2nd Runner Up — Team Category<br><br>
+
+🚀 Marian Innovation Week — Top 9 (2025)<br><br>
+💡 Startup School Caravan (2022)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧠+TECH+STACK+🧠" />
+</div>
+
+<div align="center">
+
+### ⚙️ OPERATING SYSTEMS ⚙️
 
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
-### 🖥️ IDE 
+### 🖥️ IDE 🖥️
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio" />
 
-### 💻 Programming Languages
+### 💻 LANGUAGES 💻
 
 <img src="https://skillicons.dev/icons?i=java,cs,php,kotlin,html,css,js" />
 
-### 🌐 Web Development
+### 🌐 WEB 🌐
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vite,materialui,mysql,npm,wordpress" />
 
-### 🤖 Machine Learning / Artificial Intelligence
+### 🤖 MACHINE LEARNING 🤖
 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 
+### 🎨 DESIGN 🎨
 
-### 🎨 Design & Media
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/960px-Adobe_Photoshop_Lightroom_CC_logo.svg.png gap="10" height="48" alt="canva logo"/>
+<img src=https://static.vecteezy.com/system/resources/thumbnails/032/329/175/small/canva-icon-logo-symbol-free-png.png gap="10" height="48" alt="canva logo"/>
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,discord,gmail" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
 
 
 </div>
 
-
 ---
-# 🎸 PERSONAL LIFE
 
-### 🎸 Guitarist
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🏌🏻‍♂️+PERSONAL+LIFE+🏌🏻‍♂️" />
+</div>
 
-I play:
+<div align="center">
 
-- **Acoustic Guitar**  
-- **Electric Guitar**  
-- **Bass Guitar**
-
-### 🎵 Music Lover
-
-I enjoy:
-
-- Discovering new music  
-- Attending **live concerts**
-
-### 🌿 Nature Lover
-
-I also enjoy:
-
-- Exploring the outdoors  
-- Nature trips  
-- Appreciating natural beauty and scenery  
+🎸 Guitarist (Acoustic • Electric • Bass)
+🎵 Music Explorer
+📸 Photography
+🎬 Video Editing
+🌿 Nature Interface
 
 > *Coding, music, and nature all require rhythm, creativity, and patience.*
 
----
-
-# 📊 PLAYER STATS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzmejips&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 COMMIT STREAK
+<div align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+📊+STATISTICS+📊" />
+</div>
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itzmejips&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=itzmejips&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itzmejips&theme=tokyonight&hide_border=true"/>
+</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=1&pause=999999&color=17E9F7FF&center=true&vCenter=true&width=600&lines=+PROFILE+VIEWS" /><br>
+<img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=4&scale=1"/>
 
 </div>
 
 ---
 
-# 🎮 GITHUB CONTRIBUTION GAME
-
 <div align="center">
 
-## 🟡 Pac-Man Contribution Game
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=35&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🟡+CONTRIBUTION+SIMULATION+🐍" />
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzmejips/itzmejips/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzmejips/itzmejips/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itzmejips/itzmejips/output/pacman-contribution-graph.svg">
 </picture>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 
-## 🐍 Snake Contribution Game
-![pacman graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
----
-
-> **Every commit = XP. Every day = level up!**
+</div>
 
 ---
-
-
-# 🧬 QUOTES
-![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Life%20begins%20at%20the%20edge%20of%20your%20comfort%20zone&author=JP)
-![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Chase%20experiences,%20not%20just%20achievements&author=JP)
-![My Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
----
-
-# 🌐 CONNECT WITH ME
 
 <div align="center">
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=45&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🧬+QUOTES+🧬" />
+</div>
+
+![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Life%20begins%20at%20the%20edge%20of%20your%20comfort%20zone&author=JP)
+![My Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Chase%20experiences,%20not%20just%20achievements&author=JP)
+![My Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Enjoy%20Life!&author=JP)
+
+</div>
+
+---
+
+<div align="center">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=40&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+🌐+CONNECT+WITH+ME+🌐" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/john-paul-dres-3a1ab5319/" target="_blank">
@@ -188,7 +194,7 @@ I also enjoy:
   <a href="https://www.instagram.com/callme._.jp " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="johnpaul34107@gmail.com" target="_blank">
+  <a href="mailto:johnpaul34107@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/slyth_invi?s=21" target="_blank">
@@ -198,22 +204,12 @@ I also enjoy:
 
 </div>
 
-<div align="center">
-
 ---
 
-### 👾 THANKS FOR VISITING MY PROFILE 👾
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-<!-- <img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=plastic" style="height:25px;" /> -->
-  
 <div align="center">
-  <img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=4&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=25&duration=1&pause=999999&color=39F731FF&center=true&vCenter=true&width=600&lines=+👾+THANKS+FOR+VISITING+MY+PROFILE!+👾" />
 </div>
 
 </div>
-</div>
-
----
-
-### ⚡ **"Build. Learn. Repeat."** ⚡
