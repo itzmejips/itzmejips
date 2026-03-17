@@ -148,7 +148,13 @@ I also enjoy:
 <div align="center">
 
 ## 🟡 Pac-Man Contribution Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzmejips/itzmejips/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzmejips/itzmejips/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itzmejips/itzmejips/output/pacman-contribution-graph.svg">
+</picture>
 
+## 🐍 Snake Contribution Game
 ![pacman graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -168,16 +174,39 @@ I also enjoy:
 
 <div align="center">
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:johnpaul34107@gmail.com) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/john-paul-dres-3a1ab5319/) &nbsp;&nbsp;&nbsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/itzmejips)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/john-paul-dres-3a1ab5319/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/xeeFvKbw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/itzmejips/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/callme._.jp " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="johnpaul34107@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/slyth_invi?s=21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 </div>
 
 <div align="center">
 
+---
+
 ### 👾 THANKS FOR VISITING MY PROFILE 👾
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-<img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=plastic" style="height:25px;" />
+<!-- <img src="https://komarev.com/ghpvc/?username=itzmejips&color=00ffff&style=plastic" style="height:25px;" /> -->
+  
 <div align="center">
   <img src="https://count.getloli.com/@:itzmejips?theme=3d-num&padding=4&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
