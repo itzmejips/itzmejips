@@ -42,10 +42,6 @@
 • Networking
 • Hardware Systems
 • Cybersecurity
-<br><br>
-🎯 **MISSION:**
-
-> Become a **professional software developer and cybersecurity analyst**
 
 </div>
 <br>
@@ -121,10 +117,6 @@
 📸 Photography
 🎬 Video Editing
 🌿 Nature Interface
-
-> *Coding, music, and nature all require rhythm, creativity, and patience.*
-
-
 </div>
 <br>
 
